@@ -1,0 +1,2400 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: XooApp Master\n"
+"POT-Creation-Date: 2018-12-12 16:21+0600\n"
+"PO-Revision-Date: 2018-12-12 16:20+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-WPHeader: xooapp-master.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: custom-widgets.php:14
+msgid "Xooapp Recent Posts Widget"
+msgstr ""
+
+#: custom-widgets.php:49
+msgid "by"
+msgstr ""
+
+#: custom-widgets.php:79
+msgid "Title:"
+msgstr ""
+
+#: custom-widgets.php:83
+msgid "Post Count:"
+msgstr ""
+
+#: demo-importer/engine/content_importer.php:193
+msgid "Import data could not be read. Please try a different file."
+msgstr ""
+
+#: demo-importer/engine/content_importer.php:213
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: demo-importer/engine/content_importer.php:228
+msgid "Site does not support widget"
+msgstr ""
+
+#: demo-importer/engine/content_importer.php:240
+msgid "Widget already exists"
+msgstr ""
+
+#: demo-importer/engine/content_importer.php:274
+msgid "Imported"
+msgstr ""
+
+#: demo-importer/engine/content_importer.php:277
+msgid "Imported to Inactive"
+msgstr ""
+
+#: demo-importer/engine/content_importer.php:282
+msgid "No Title"
+msgstr ""
+
+#: demo-importer/engine/index.php:58
+msgid "<h1>Install Templates - OneClick</h1>"
+msgstr ""
+
+#: demo-importer/engine/index.php:83
+msgid "Install"
+msgstr ""
+
+#: demo-importer/engine/parsers.php:42 demo-importer/engine/parsers.php:72
+#: demo-importer/engine/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: demo-importer/engine/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: demo-importer/engine/parsers.php:84 demo-importer/engine/parsers.php:89
+#: demo-importer/engine/parsers.php:306 demo-importer/engine/parsers.php:502
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:132
+#: demo-importer/engine/wordpress-importer.php:141
+#: demo-importer/engine/wordpress-importer.php:192
+#: demo-importer/engine/wordpress-importer.php:196
+#: demo-importer/engine/wordpress-importer.php:205
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:133
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:176
+msgid "All done."
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:176
+msgid "Have fun!"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:177
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:197
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:213
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:238
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:264
+msgid "Assign Authors"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:265
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:267
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:277
+msgid "Import Attachments"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:280
+msgid "Download and import file attachments"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:284
+msgid "Submit"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:297
+msgid "Import author:"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:308
+msgid "or create new user with login name:"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:311
+msgid "as a new user:"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:319
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:321
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:322
+msgid "- Select -"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:372
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:424
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:467
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:516
+#: demo-importer/engine/wordpress-importer.php:738
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:605
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:642
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:704
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:870
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:877
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:940
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:953
+msgid "Invalid file type"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:1003
+msgid "Remote server did not respond"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:1011
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:1018
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:1023
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:1029
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:1129
+msgid "Import WordPress"
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:1136
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:1151
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: demo-importer/engine/wordpress-importer.php:1152
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: demo-importer/one-click-installer.php:56
+#: demo-importer/one-click-installer.php:57
+msgid "Welcome"
+msgstr ""
+
+#: demo-importer/one-click-installer.php:68
+#: demo-importer/one-click-installer.php:69
+msgid "Quick Install"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:71
+msgid "Xooapp"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:107
+msgid "Extra Option Background"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:114
+msgctxt "Background Control"
+msgid "Image"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:119
+msgctxt "Background Control"
+msgid "Background Image"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:130
+msgid "Background Position"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:134
+#: elementor-blocks/elementor-blocks.php:159
+msgctxt "Background Control"
+msgid "Default"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:135
+msgctxt "Background Control"
+msgid "Top Left"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:136
+msgctxt "Background Control"
+msgid "Top Center"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:137
+msgctxt "Background Control"
+msgid "Top Right"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:138
+msgctxt "Background Control"
+msgid "Center Left"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:139
+msgctxt "Background Control"
+msgid "Center Center"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:140
+msgctxt "Background Control"
+msgid "Center Right"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:141
+msgctxt "Background Control"
+msgid "Bottom Left"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:142
+msgctxt "Background Control"
+msgid "Bottom Center"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:143
+msgctxt "Background Control"
+msgid "Bottom Right"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:155
+msgid "Background Size"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:160
+msgctxt "Background Control"
+msgid "Auto"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:161
+msgctxt "Background Control"
+msgid "Cover"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:162
+msgctxt "Background Control"
+msgid "Contain"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:174
+msgctxt "Background Control"
+msgid "Color"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:177
+msgctxt "Background Control"
+msgid "Background Color"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:188
+msgid "Background Image Hide On Device"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:195
+#: elementor-blocks/elementor-blocks.php:266
+msgid "Hide"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:196
+#: elementor-blocks/elementor-blocks.php:267
+msgid "Show"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:204
+#: elementor-blocks/elementor-blocks.php:215
+msgid "Overlay Image Position"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:238
+msgid "Overlay Image Width"
+msgstr ""
+
+#: elementor-blocks/elementor-blocks.php:259
+msgid "Overlay Hide On Device"
+msgstr ""
+
+#: elementor-blocks/widgets/app-info.php:50
+#: elementor-blocks/widgets/contact-form7.php:52
+#: elementor-blocks/widgets/hero-one.php:53
+#: elementor-blocks/widgets/logo.php:52
+#: elementor-blocks/widgets/video-box.php:52
+#: elementor-blocks/widgets/video-content.php:51
+msgid "Section Settings"
+msgstr ""
+
+#: elementor-blocks/widgets/app-info.php:58
+#: elementor-blocks/widgets/app-info.php:78
+msgid "App Image Upload"
+msgstr ""
+
+#: elementor-blocks/widgets/app-info.php:67
+#: elementor-blocks/widgets/app-info.php:87
+msgid "Link One"
+msgstr ""
+
+#: elementor-blocks/widgets/app-info.php:97
+#: elementor-blocks/widgets/video-content.php:148
+msgid "Section Padding"
+msgstr ""
+
+#: elementor-blocks/widgets/app-info.php:110
+msgid "Section Margin"
+msgstr ""
+
+#: elementor-blocks/widgets/app-info.php:122
+#: elementor-blocks/widgets/app-slider.php:597
+#: elementor-blocks/widgets/button-list.php:347
+#: elementor-blocks/widgets/contact-form7.php:93
+#: elementor-blocks/widgets/feature-box.php:584
+#: elementor-blocks/widgets/heading.php:179
+#: elementor-blocks/widgets/logo.php:93
+#: elementor-blocks/widgets/pricing-table.php:267
+#: elementor-blocks/widgets/section-heading.php:179
+#: elementor-blocks/widgets/video-box.php:118
+msgid "Alignment"
+msgstr ""
+
+#: elementor-blocks/widgets/app-info.php:126
+#: elementor-blocks/widgets/app-slider.php:363
+#: elementor-blocks/widgets/app-slider.php:601
+#: elementor-blocks/widgets/button-list.php:351
+#: elementor-blocks/widgets/contact-form7.php:97
+#: elementor-blocks/widgets/feature-box.php:588
+#: elementor-blocks/widgets/heading.php:183
+#: elementor-blocks/widgets/logo.php:97
+#: elementor-blocks/widgets/nav-menu.php:138
+#: elementor-blocks/widgets/nav-menu.php:373
+#: elementor-blocks/widgets/pricing-table.php:271
+#: elementor-blocks/widgets/section-heading.php:183
+#: elementor-blocks/widgets/team.php:244
+#: elementor-blocks/widgets/video-box.php:122
+msgid "Left"
+msgstr ""
+
+#: elementor-blocks/widgets/app-info.php:130
+#: elementor-blocks/widgets/app-slider.php:605
+#: elementor-blocks/widgets/button-list.php:355
+#: elementor-blocks/widgets/contact-form7.php:101
+#: elementor-blocks/widgets/feature-box.php:592
+#: elementor-blocks/widgets/heading.php:187
+#: elementor-blocks/widgets/logo.php:101
+#: elementor-blocks/widgets/nav-menu.php:142
+#: elementor-blocks/widgets/nav-menu.php:343
+#: elementor-blocks/widgets/nav-menu.php:377
+#: elementor-blocks/widgets/pricing-table.php:275
+#: elementor-blocks/widgets/section-heading.php:187
+#: elementor-blocks/widgets/video-box.php:126
+msgid "Center"
+msgstr ""
+
+#: elementor-blocks/widgets/app-info.php:134
+#: elementor-blocks/widgets/app-slider.php:364
+#: elementor-blocks/widgets/app-slider.php:609
+#: elementor-blocks/widgets/button-list.php:359
+#: elementor-blocks/widgets/contact-form7.php:105
+#: elementor-blocks/widgets/feature-box.php:596
+#: elementor-blocks/widgets/heading.php:191
+#: elementor-blocks/widgets/logo.php:105
+#: elementor-blocks/widgets/nav-menu.php:146
+#: elementor-blocks/widgets/nav-menu.php:381
+#: elementor-blocks/widgets/pricing-table.php:279
+#: elementor-blocks/widgets/section-heading.php:191
+#: elementor-blocks/widgets/team.php:252
+#: elementor-blocks/widgets/video-box.php:130
+msgid "Right"
+msgstr ""
+
+#: elementor-blocks/widgets/app-info.php:138
+#: elementor-blocks/widgets/app-slider.php:613
+#: elementor-blocks/widgets/button-list.php:363
+#: elementor-blocks/widgets/contact-form7.php:109
+#: elementor-blocks/widgets/feature-box.php:600
+#: elementor-blocks/widgets/heading.php:195
+#: elementor-blocks/widgets/logo.php:109
+#: elementor-blocks/widgets/section-heading.php:195
+#: elementor-blocks/widgets/video-box.php:134
+msgid "Justified"
+msgstr ""
+
+#: elementor-blocks/widgets/app-info.php:171
+#: elementor-blocks/widgets/header.php:614
+msgid "appstore-logo"
+msgstr ""
+
+#: elementor-blocks/widgets/app-info.php:178
+msgid "googleplay-logo"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:31
+msgid "App Image Slider"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:84
+msgid "Image Carousel"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:91
+msgid "Add Images"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:115
+msgid "Slides to Show"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:118
+#: elementor-blocks/widgets/app-slider.php:147
+#: elementor-blocks/widgets/app-slider.php:234
+#: elementor-blocks/widgets/app-slider.php:525
+#: elementor-blocks/widgets/button-list.php:121
+#: elementor-blocks/widgets/button-list.php:497
+#: elementor-blocks/widgets/button-list.php:510
+#: elementor-blocks/widgets/counter.php:243
+#: elementor-blocks/widgets/feature-box.php:153
+#: elementor-blocks/widgets/feature-box.php:172
+#: elementor-blocks/widgets/heading.php:146
+#: elementor-blocks/widgets/pricing-table.php:127
+#: elementor-blocks/widgets/pricing-table.php:553
+#: elementor-blocks/widgets/section-heading.php:146
+#: elementor-blocks/widgets/social-list.php:248
+msgid "Default"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:127
+msgid "Slides to Scroll"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:129
+msgid "Set how many slides are scrolled per swipe."
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:143
+msgid "Frame Select"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:148
+#: elementor-blocks/widgets/app-slider.php:179
+#: elementor-blocks/widgets/app-slider.php:235
+#: elementor-blocks/widgets/app-slider.php:284
+#: elementor-blocks/widgets/app-slider.php:298
+#: elementor-blocks/widgets/app-slider.php:322 minify.php:144 minify.php:152
+#: minify.php:160 minify.php:168 minify.php:176 minify.php:184
+msgid "Yes"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:157
+msgid "Frame Image"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:174
+msgid "Image Stretch"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:178
+#: elementor-blocks/widgets/app-slider.php:236
+#: elementor-blocks/widgets/app-slider.php:285
+#: elementor-blocks/widgets/app-slider.php:299
+#: elementor-blocks/widgets/app-slider.php:323 minify.php:145 minify.php:153
+#: minify.php:161 minify.php:169 minify.php:177 minify.php:185
+msgid "No"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:187
+#: elementor-blocks/widgets/app-slider.php:377
+msgid "Navigation"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:191
+msgid "Arrows and Dots"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:192
+#: elementor-blocks/widgets/app-slider.php:388
+msgid "Arrows"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:193
+#: elementor-blocks/widgets/app-slider.php:450
+msgid "Dots"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:194
+#: elementor-blocks/widgets/app-slider.php:207
+#: elementor-blocks/widgets/app-slider.php:251
+#: elementor-blocks/widgets/button-list.php:393
+#: elementor-blocks/widgets/counter.php:145
+#: elementor-blocks/widgets/nav-menu.php:168
+#: elementor-blocks/widgets/nav-menu.php:280
+#: elementor-blocks/widgets/nav-menu.php:356
+msgid "None"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:203
+#: elementor-blocks/widgets/app-slider.php:217
+#: elementor-blocks/widgets/feature-box.php:250
+#: elementor-blocks/widgets/team.php:172
+msgid "Link to"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:208
+msgid "Media File"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:209
+msgid "Custom URL"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:219
+#: elementor-blocks/widgets/button-list.php:165
+#: elementor-blocks/widgets/feature-box.php:255
+#: elementor-blocks/widgets/pricing-table.php:174
+#: elementor-blocks/widgets/social-list.php:184
+#: elementor-blocks/widgets/team.php:177
+msgid "https://your-link.com"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:230
+msgid "Lightbox"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:247
+#: elementor-blocks/widgets/app-slider.php:253
+#: elementor-blocks/widgets/app-slider.php:586
+msgid "Caption"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:252
+#: elementor-blocks/widgets/blog.php:102
+#: elementor-blocks/widgets/counter.php:113
+#: elementor-blocks/widgets/feature-box.php:205
+#: elementor-blocks/widgets/feature-box.php:628
+#: elementor-blocks/widgets/heading.php:107
+#: elementor-blocks/widgets/heading.php:114
+#: elementor-blocks/widgets/heading.php:220
+#: elementor-blocks/widgets/hero-one.php:61
+#: elementor-blocks/widgets/hero-one.php:116
+#: elementor-blocks/widgets/pricing-table.php:109
+#: elementor-blocks/widgets/section-heading.php:107
+#: elementor-blocks/widgets/section-heading.php:114
+#: elementor-blocks/widgets/section-heading.php:273
+#: elementor-blocks/widgets/team.php:145 elementor-blocks/widgets/team.php:446
+#: elementor-blocks/widgets/testimonial.php:63
+#: elementor-blocks/widgets/video-content.php:59
+msgid "Title"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:254
+#: elementor-blocks/widgets/contact-form7.php:83
+#: elementor-blocks/widgets/counter.php:329
+#: elementor-blocks/widgets/feature-box.php:691
+#: elementor-blocks/widgets/hero-one.php:75
+#: elementor-blocks/widgets/logo.php:83 elementor-blocks/widgets/team.php:507
+#: elementor-blocks/widgets/testimonial.php:102
+#: elementor-blocks/widgets/video-content.php:73
+msgid "Description"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:262
+#: elementor-blocks/widgets/feature-box.php:169
+#: elementor-blocks/widgets/heading.php:209
+#: elementor-blocks/widgets/section-heading.php:209
+#: elementor-blocks/widgets/section-heading.php:261
+#: elementor-blocks/widgets/social-list.php:225
+msgid "View"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:273
+msgid "Additional Options"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:280
+msgid "Pause on Hover"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:294
+msgid "Autoplay"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:308
+msgid "Autoplay Speed"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:318
+msgid "Infinite Loop"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:332
+msgid "Effect"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:336
+msgid "Slide"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:337
+msgid "Fade"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:349
+msgid "Animation Speed"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:359
+msgid "Direction"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:400
+#: elementor-blocks/widgets/app-slider.php:462
+#: elementor-blocks/widgets/team.php:239
+msgid "Position"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:404
+#: elementor-blocks/widgets/app-slider.php:467
+msgid "Inside"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:405
+#: elementor-blocks/widgets/app-slider.php:466
+msgid "Outside"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:416
+#: elementor-blocks/widgets/app-slider.php:478
+#: elementor-blocks/widgets/button-list.php:547
+#: elementor-blocks/widgets/feature-box.php:492
+#: elementor-blocks/widgets/heading.php:142
+#: elementor-blocks/widgets/nav-menu.php:1042
+#: elementor-blocks/widgets/pricing-table.php:454
+#: elementor-blocks/widgets/section-heading.php:142
+#: elementor-blocks/widgets/social-list.php:285
+msgid "Size"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:436
+#: elementor-blocks/widgets/app-slider.php:498
+#: elementor-blocks/widgets/button-list.php:506
+#: elementor-blocks/widgets/counter.php:176
+#: elementor-blocks/widgets/counter.php:313
+#: elementor-blocks/widgets/counter.php:338
+#: elementor-blocks/widgets/feature-box.php:654
+#: elementor-blocks/widgets/feature-box.php:700
+#: elementor-blocks/widgets/hero-one.php:124
+#: elementor-blocks/widgets/nav-menu.php:985
+#: elementor-blocks/widgets/nav-menu.php:1016
+#: elementor-blocks/widgets/pricing-table.php:397
+#: elementor-blocks/widgets/pricing-table.php:426
+#: elementor-blocks/widgets/social-list.php:244
+#: elementor-blocks/widgets/team.php:472 elementor-blocks/widgets/team.php:516
+#: elementor-blocks/widgets/testimonial.php:348
+msgid "Color"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:514
+#: elementor-blocks/widgets/feature-box.php:131
+#: elementor-blocks/widgets/feature-box.php:138
+#: elementor-blocks/widgets/team.php:270
+msgid "Image"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:522
+#: elementor-blocks/widgets/button-list.php:578
+#: elementor-blocks/widgets/contact-form7.php:139
+#: elementor-blocks/widgets/feature-box.php:468
+#: elementor-blocks/widgets/feature-box.php:637
+#: elementor-blocks/widgets/logo.php:139 elementor-blocks/widgets/team.php:365
+#: elementor-blocks/widgets/team.php:455
+msgid "Spacing"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:526
+#: elementor-blocks/widgets/button-list.php:511
+#: elementor-blocks/widgets/pricing-table.php:555
+#: elementor-blocks/widgets/social-list.php:249
+msgid "Custom"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:538
+msgid "Image Spacing"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:572
+#: elementor-blocks/widgets/blog.php:287
+#: elementor-blocks/widgets/button-list.php:444
+#: elementor-blocks/widgets/button-list.php:604
+#: elementor-blocks/widgets/feature-box.php:559
+#: elementor-blocks/widgets/nav-menu.php:686
+#: elementor-blocks/widgets/nav-menu.php:855
+#: elementor-blocks/widgets/nav-menu.php:1075
+#: elementor-blocks/widgets/social-list.php:339
+#: elementor-blocks/widgets/team.php:421
+msgid "Border Radius"
+msgstr ""
+
+#: elementor-blocks/widgets/app-slider.php:627
+#: elementor-blocks/widgets/blog.php:233 elementor-blocks/widgets/blog.php:318
+#: elementor-blocks/widgets/header.php:450
+#: elementor-blocks/widgets/heading.php:228
+#: elementor-blocks/widgets/nav-menu.php:435
+#: elementor-blocks/widgets/nav-menu.php:476
+#: elementor-blocks/widgets/nav-menu.php:513
+#: elementor-blocks/widgets/nav-menu.php:562
+#: elementor-blocks/widgets/nav-menu.php:734
+#: elementor-blocks/widgets/nav-menu.php:768
+#: elementor-blocks/widgets/nav-menu.php:806
+#: elementor-blocks/widgets/pricing-table.php:484
+#: elementor-blocks/widgets/section-heading.php:281
+#: elementor-blocks/widgets/section-heading.php:347
+#: elementor-blocks/widgets/video-box.php:106
+msgid "Text Color"
+msgstr ""
+
+#: elementor-blocks/widgets/blog.php:61
+#: elementor-blocks/widgets/button-list.php:116
+#: elementor-blocks/widgets/nav-menu.php:72
+#: elementor-blocks/widgets/nav-menu.php:106
+#: elementor-blocks/widgets/pricing-table.php:122
+#: elementor-blocks/widgets/testimonial.php:200
+msgid "Layout"
+msgstr ""
+
+#: elementor-blocks/widgets/blog.php:69
+msgid "From Category"
+msgstr ""
+
+#: elementor-blocks/widgets/blog.php:80
+msgid "Number Of Post Show"
+msgstr ""
+
+#: elementor-blocks/widgets/blog.php:90
+msgid "Word Show"
+msgstr ""
+
+#: elementor-blocks/widgets/blog.php:110
+msgid "Title Color"
+msgstr ""
+
+#: elementor-blocks/widgets/blog.php:131
+msgid "Title Spacing"
+msgstr ""
+
+#: elementor-blocks/widgets/blog.php:145
+msgid "Title & Meta Hover Color"
+msgstr ""
+
+#: elementor-blocks/widgets/blog.php:160
+#: elementor-blocks/widgets/contact-form7.php:177
+#: elementor-blocks/widgets/feature-box.php:576
+#: elementor-blocks/widgets/logo.php:177 elementor-blocks/widgets/team.php:436
+#: elementor-blocks/widgets/testimonial.php:316
+msgid "Content"
+msgstr ""
+
+#: elementor-blocks/widgets/blog.php:177
+msgid "Content Spacing"
+msgstr ""
+
+#: elementor-blocks/widgets/blog.php:189
+msgid "Content Color"
+msgstr ""
+
+#: elementor-blocks/widgets/blog.php:203 elementor-blocks/widgets/blog.php:214
+msgid "More Details"
+msgstr ""
+
+#: elementor-blocks/widgets/blog.php:212
+#: elementor-blocks/widgets/button-list.php:149
+#: elementor-blocks/widgets/pricing-table.php:216
+#: elementor-blocks/widgets/video-content.php:87
+msgid "Button Text"
+msgstr ""
+
+#: elementor-blocks/widgets/blog.php:223
+#: elementor-blocks/widgets/feature-box.php:348
+#: elementor-blocks/widgets/heading.php:269
+#: elementor-blocks/widgets/nav-menu.php:428
+#: elementor-blocks/widgets/nav-menu.php:727
+#: elementor-blocks/widgets/nav-menu.php:978
+#: elementor-blocks/widgets/team.php:283
+msgid "Normal"
+msgstr ""
+
+#: elementor-blocks/widgets/blog.php:246 elementor-blocks/widgets/blog.php:333
+#: elementor-blocks/widgets/button-list.php:283
+#: elementor-blocks/widgets/nav-menu.php:746
+#: elementor-blocks/widgets/nav-menu.php:782
+#: elementor-blocks/widgets/nav-menu.php:818
+#: elementor-blocks/widgets/nav-menu.php:996
+#: elementor-blocks/widgets/nav-menu.php:1027
+#: elementor-blocks/widgets/pricing-table.php:565
+#: elementor-blocks/widgets/testimonial.php:236
+#: elementor-blocks/widgets/testimonial.php:324
+msgid "Background Color"
+msgstr ""
+
+#: elementor-blocks/widgets/blog.php:260
+#: elementor-blocks/widgets/button-list.php:389
+#: elementor-blocks/widgets/counter.php:141
+msgid "Border"
+msgstr ""
+
+#: elementor-blocks/widgets/blog.php:273
+msgid "Text Padding"
+msgstr ""
+
+#: elementor-blocks/widgets/blog.php:308
+#: elementor-blocks/widgets/feature-box.php:420
+#: elementor-blocks/widgets/nav-menu.php:469
+#: elementor-blocks/widgets/nav-menu.php:761
+#: elementor-blocks/widgets/nav-menu.php:1009
+#: elementor-blocks/widgets/pricing-table.php:442
+#: elementor-blocks/widgets/pricing-table.php:500
+#: elementor-blocks/widgets/team.php:320
+msgid "Hover"
+msgstr ""
+
+#: elementor-blocks/widgets/blog.php:349
+#: elementor-blocks/widgets/button-list.php:425
+#: elementor-blocks/widgets/button-list.php:656
+#: elementor-blocks/widgets/pricing-table.php:598
+#: elementor-blocks/widgets/social-list.php:391
+msgid "Border Color"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:109
+msgid "Button Icons"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:125
+#: elementor-blocks/widgets/pricing-table.php:131
+msgid "Inline"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:142
+msgid "General"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:159
+#: elementor-blocks/widgets/header.php:143
+#: elementor-blocks/widgets/header.php:302
+#: elementor-blocks/widgets/header.php:368
+#: elementor-blocks/widgets/heading.php:127
+#: elementor-blocks/widgets/pricing-table.php:171
+#: elementor-blocks/widgets/section-heading.php:127
+#: elementor-blocks/widgets/social-list.php:178
+#: elementor-blocks/widgets/video-content.php:102
+msgid "Link"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:174
+msgid "Design"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:181
+#: elementor-blocks/widgets/social-list.php:192
+msgid "Show Icon"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:192
+#: elementor-blocks/widgets/header.php:239
+#: elementor-blocks/widgets/social-list.php:115
+msgid "Name With Icon"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:204
+msgid "Icon Position"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:208
+msgid "Before"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:209
+msgid "After"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:224
+msgid "Icon Spacing"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:244
+msgid "Icon Size"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:264
+msgid "Icon Rotate"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:294
+#: elementor-blocks/widgets/button-list.php:533
+#: elementor-blocks/widgets/button-list.php:641
+msgid "Font Color"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:306
+#: elementor-blocks/widgets/pricing-table.php:619
+msgid "Hover Background Color"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:317
+msgid "Hover Font Color"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:378
+#: elementor-blocks/widgets/section-heading.php:319
+#: elementor-blocks/widgets/section-heading.php:390
+#: elementor-blocks/widgets/section-heading.php:433
+msgid "Margin"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:394
+#: elementor-blocks/widgets/counter.php:146
+msgctxt "Border Control"
+msgid "Solid"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:395
+#: elementor-blocks/widgets/counter.php:147
+msgctxt "Border Control"
+msgid "Double"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:396
+#: elementor-blocks/widgets/counter.php:148
+msgctxt "Border Control"
+msgid "Dotted"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:397
+#: elementor-blocks/widgets/counter.php:149
+msgctxt "Border Control"
+msgid "Dashed"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:398
+#: elementor-blocks/widgets/counter.php:150
+msgctxt "Border Control"
+msgid "Groove"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:410
+#: elementor-blocks/widgets/counter.php:161
+#: elementor-blocks/widgets/feature-box.php:544
+#: elementor-blocks/widgets/nav-menu.php:927
+#: elementor-blocks/widgets/nav-menu.php:1059
+msgid "Border Width"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:485
+#: elementor-blocks/widgets/button-list.php:498
+#: elementor-blocks/widgets/pricing-table.php:541
+msgid "Button"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:493
+#: elementor-blocks/widgets/pricing-table.php:304
+#: elementor-blocks/widgets/pricing-table.php:550
+msgid "Style"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:519
+#: elementor-blocks/widgets/button-list.php:626
+#: elementor-blocks/widgets/feature-box.php:385
+#: elementor-blocks/widgets/feature-box.php:427
+#: elementor-blocks/widgets/social-list.php:257
+#: elementor-blocks/widgets/social-list.php:361
+#: elementor-blocks/widgets/team.php:290 elementor-blocks/widgets/team.php:327
+msgid "Primary Color"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:564
+#: elementor-blocks/widgets/feature-box.php:509
+#: elementor-blocks/widgets/section-heading.php:403
+#: elementor-blocks/widgets/section-heading.php:446
+#: elementor-blocks/widgets/social-list.php:302
+#: elementor-blocks/widgets/team.php:389
+msgid "Padding"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:618
+#: elementor-blocks/widgets/social-list.php:353
+msgid "Icon Hover"
+msgstr ""
+
+#: elementor-blocks/widgets/button-list.php:671
+#: elementor-blocks/widgets/feature-box.php:456
+#: elementor-blocks/widgets/social-list.php:406
+#: elementor-blocks/widgets/team.php:353
+msgid "Hover Animation"
+msgstr ""
+
+#: elementor-blocks/widgets/contact-form7.php:60
+#: elementor-blocks/widgets/header.php:83 elementor-blocks/widgets/logo.php:60
+msgid "Upload Logo"
+msgstr ""
+
+#: elementor-blocks/widgets/contact-form7.php:73
+#: elementor-blocks/widgets/header.php:109 elementor-blocks/widgets/logo.php:73
+msgid "Logo Text"
+msgstr ""
+
+#: elementor-blocks/widgets/contact-form7.php:127
+#: elementor-blocks/widgets/logo.php:127
+msgid "Logo Style"
+msgstr ""
+
+#: elementor-blocks/widgets/contact-form7.php:158
+#: elementor-blocks/widgets/header.php:423
+#: elementor-blocks/widgets/logo.php:158
+msgid "Logo Size"
+msgstr ""
+
+#: elementor-blocks/widgets/counter.php:48
+#: elementor-blocks/widgets/counter.php:105
+msgid "Counter"
+msgstr ""
+
+#: elementor-blocks/widgets/counter.php:115
+#: elementor-blocks/widgets/header.php:133
+msgid "Name"
+msgstr ""
+
+#: elementor-blocks/widgets/counter.php:122
+#: elementor-blocks/widgets/counter.php:124
+#: elementor-blocks/widgets/feature-box.php:113
+#: elementor-blocks/widgets/feature-box.php:120
+#: elementor-blocks/widgets/feature-box.php:302
+#: elementor-blocks/widgets/feature-box.php:335
+#: elementor-blocks/widgets/pricing-table.php:161
+#: elementor-blocks/widgets/pricing-table.php:418
+#: elementor-blocks/widgets/social-list.php:236
+#: elementor-blocks/widgets/team.php:195
+#: elementor-blocks/widgets/video-box.php:149
+msgid "Icon"
+msgstr ""
+
+#: elementor-blocks/widgets/counter.php:132
+#: elementor-blocks/widgets/counter.php:304
+msgid "Number"
+msgstr ""
+
+#: elementor-blocks/widgets/counter.php:195
+#: elementor-blocks/widgets/feature-box.php:321
+#: elementor-blocks/widgets/team.php:214
+msgid "Repeater List"
+msgstr ""
+
+#: elementor-blocks/widgets/counter.php:200
+msgid "Happy Clients"
+msgstr ""
+
+#: elementor-blocks/widgets/counter.php:201
+msgid "pe-7s-smile"
+msgstr ""
+
+#: elementor-blocks/widgets/counter.php:205
+msgid "Tickets Closed"
+msgstr ""
+
+#: elementor-blocks/widgets/counter.php:206
+msgid "pe-7s-help2"
+msgstr ""
+
+#: elementor-blocks/widgets/counter.php:210
+msgid "Followers"
+msgstr ""
+
+#: elementor-blocks/widgets/counter.php:211
+msgid "pe-7s-users"
+msgstr ""
+
+#: elementor-blocks/widgets/counter.php:215
+msgid "Cups of Coffee"
+msgstr ""
+
+#: elementor-blocks/widgets/counter.php:216
+msgid "pe-7s-coffee"
+msgstr ""
+
+#: elementor-blocks/widgets/counter.php:232
+msgid "Styling"
+msgstr ""
+
+#: elementor-blocks/widgets/counter.php:239
+msgid "Column Number"
+msgstr ""
+
+#: elementor-blocks/widgets/counter.php:244
+msgctxt "Column Selection"
+msgid "2 Column"
+msgstr ""
+
+#: elementor-blocks/widgets/counter.php:245
+msgctxt "Column Selection"
+msgid "3 Column"
+msgstr ""
+
+#: elementor-blocks/widgets/counter.php:246
+msgctxt "Column Selection"
+msgid "4 Column"
+msgstr ""
+
+#: elementor-blocks/widgets/counter.php:247
+msgctxt "Column Selection"
+msgid "6 Column"
+msgstr ""
+
+#: elementor-blocks/widgets/counter.php:256
+#: elementor-blocks/widgets/feature-box.php:355
+msgid "Gradient Primary Color"
+msgstr ""
+
+#: elementor-blocks/widgets/counter.php:272
+#: elementor-blocks/widgets/feature-box.php:371
+msgid "Gradient Secondary Color"
+msgstr ""
+
+#: elementor-blocks/widgets/counter.php:286
+msgid "Font Size"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:48
+#: elementor-blocks/widgets/feature-box.php:105
+msgid "Feature Box"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:150
+msgid "Feature Box Style"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:154
+msgid "Purple Hover With Border"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:155
+msgid "Rose Hover With Border"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:156
+msgid "Red Hover With Border"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:157
+msgid "Orange Hover With Border"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:158
+msgid "Blue Hover With Border"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:159
+msgid "Green Hover With Border"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:160
+msgid "Skyblue Hover With Border"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:173
+msgid "Stacked"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:174
+#: elementor-blocks/widgets/nav-menu.php:172
+msgid "Framed"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:187
+#: elementor-blocks/widgets/team.php:128
+msgid "Shape"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:190
+#: elementor-blocks/widgets/team.php:131
+msgid "Circle"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:191
+#: elementor-blocks/widgets/team.php:132
+msgid "Square"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:210
+msgid "This is the heading"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:211
+#: elementor-blocks/widgets/heading.php:119
+#: elementor-blocks/widgets/section-heading.php:119
+msgid "Enter your title"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:219
+#: elementor-blocks/widgets/section-heading.php:226
+#: elementor-blocks/widgets/section-heading.php:233
+msgid "Sub Title"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:237
+msgid "Aliquam a augue luctus neque purus ipsum neque dolor primis suscipit"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:238
+msgid "Enter your description"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:263
+msgid "Title HTML Tag"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:284
+msgid "App Icon Box"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:293
+#: elementor-blocks/widgets/team.php:186
+msgid "Social"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:295
+#: elementor-blocks/widgets/team.php:188
+msgid "Social Name"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:304
+#: elementor-blocks/widgets/team.php:197
+msgid "Social Icon"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:311
+#: elementor-blocks/widgets/team.php:204
+msgid "Social Link"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:402
+#: elementor-blocks/widgets/feature-box.php:440
+#: elementor-blocks/widgets/social-list.php:271
+#: elementor-blocks/widgets/social-list.php:376
+#: elementor-blocks/widgets/team.php:306 elementor-blocks/widgets/team.php:340
+msgid "Secondary Color"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:529
+#: elementor-blocks/widgets/team.php:406
+msgid "Rotate"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:613
+msgid "Vertical Alignment"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:616
+#: elementor-blocks/widgets/team.php:248
+msgid "Top"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:617
+msgid "Middle"
+msgstr ""
+
+#: elementor-blocks/widgets/feature-box.php:618
+msgid "Bottom"
+msgstr ""
+
+#: elementor-blocks/widgets/header.php:66
+msgid "Settings"
+msgstr ""
+
+#: elementor-blocks/widgets/header.php:73
+msgid ""
+"<b>Note - This is fixed header but, in elementor editing panel, its static "
+"for better customization. To see actual view please check live site.</b>"
+msgstr ""
+
+#: elementor-blocks/widgets/header.php:96
+msgid "Upload Logo - Slide Down Logo"
+msgstr ""
+
+#: elementor-blocks/widgets/header.php:124
+msgid "One Page Nav Settings"
+msgstr ""
+
+#: elementor-blocks/widgets/header.php:146
+#: elementor-blocks/widgets/header.php:305
+#: elementor-blocks/widgets/header.php:375
+msgid "https://your-link.com or #menuname for smooth scroll"
+msgstr ""
+
+#: elementor-blocks/widgets/header.php:153
+msgid "Priority Sign"
+msgstr ""
+
+#: elementor-blocks/widgets/header.php:162
+msgid "Drop Down"
+msgstr ""
+
+#: elementor-blocks/widgets/header.php:171
+msgid "Sub Menu - Add One sub menu in one line"
+msgstr ""
+
+#: elementor-blocks/widgets/header.php:186
+#: elementor-blocks/widgets/header.php:312
+#: elementor-blocks/widgets/social-list.php:106
+#: elementor-blocks/widgets/social-list.php:201
+msgid "Social Icons"
+msgstr ""
+
+#: elementor-blocks/widgets/header.php:221
+msgid "Social/Button"
+msgstr ""
+
+#: elementor-blocks/widgets/header.php:228
+msgid "Social / Button"
+msgstr ""
+
+#: elementor-blocks/widgets/header.php:337
+msgid "Button Name"
+msgstr ""
+
+#: elementor-blocks/widgets/header.php:351
+#: elementor-blocks/widgets/team.php:113
+msgid "Upload Image"
+msgstr ""
+
+#: elementor-blocks/widgets/header.php:390
+msgid "Header Settings"
+msgstr ""
+
+#: elementor-blocks/widgets/header.php:404
+msgid "Logo Spacing"
+msgstr ""
+
+#: elementor-blocks/widgets/header.php:442
+msgid "Menu List"
+msgstr ""
+
+#: elementor-blocks/widgets/header.php:461
+msgid "After Scroll Text Color"
+msgstr ""
+
+#: elementor-blocks/widgets/heading.php:50
+msgid "Xooapp Heading"
+msgstr ""
+
+#: elementor-blocks/widgets/heading.php:120
+#: elementor-blocks/widgets/section-heading.php:120
+msgid "Add Your Heading Text Here"
+msgstr ""
+
+#: elementor-blocks/widgets/heading.php:147
+#: elementor-blocks/widgets/section-heading.php:147
+msgid "Small"
+msgstr ""
+
+#: elementor-blocks/widgets/heading.php:148
+#: elementor-blocks/widgets/section-heading.php:148
+msgid "Medium"
+msgstr ""
+
+#: elementor-blocks/widgets/heading.php:149
+#: elementor-blocks/widgets/section-heading.php:149
+msgid "Large"
+msgstr ""
+
+#: elementor-blocks/widgets/heading.php:150
+#: elementor-blocks/widgets/section-heading.php:150
+msgid "XL"
+msgstr ""
+
+#: elementor-blocks/widgets/heading.php:151
+#: elementor-blocks/widgets/section-heading.php:151
+msgid "XXL"
+msgstr ""
+
+#: elementor-blocks/widgets/heading.php:159
+#: elementor-blocks/widgets/section-heading.php:159
+#: elementor-blocks/widgets/section-heading.php:246
+msgid "HTML Tag"
+msgstr ""
+
+#: elementor-blocks/widgets/heading.php:266
+msgid "Blend Mode"
+msgstr ""
+
+#: elementor-blocks/widgets/hero-one.php:99
+#: elementor-blocks/widgets/video-content.php:135
+msgid "Select Image"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:26
+msgid "Nav Menu"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:82
+msgid "Menu"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:88
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your "
+"menus."
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:96
+#, php-format
+msgid ""
+"<strong>There are no menus in your site.</strong><br>Go to the <a href=\"%s"
+"\" target=\"_blank\">Menus screen</a> to create one."
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:110
+msgid "Horizontal"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:111
+msgid "Vertical"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:112
+#: elementor-blocks/widgets/nav-menu.php:708
+msgid "Dropdown"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:121
+msgid "Counter Hide?"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:123
+msgid "This option remove counter which seen before every nav menu"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:133
+#: elementor-blocks/widgets/nav-menu.php:338
+msgid "Align"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:150
+msgid "Stretch"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:164
+msgid "Pointer"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:169
+msgid "Underline"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:170
+msgid "Overline"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:171
+msgid "Double Line"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:173
+msgid "Background"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:174
+#: elementor-blocks/widgets/pricing-table.php:150
+#: elementor-blocks/widgets/pricing-table.php:213
+#: elementor-blocks/widgets/pricing-table.php:224
+#: elementor-blocks/widgets/pricing-table.php:476
+#: elementor-blocks/widgets/pricing-table.php:584
+#: elementor-blocks/widgets/video-box.php:84
+#: elementor-blocks/widgets/video-box.php:93
+msgid "Text"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:185
+#: elementor-blocks/widgets/nav-menu.php:206
+#: elementor-blocks/widgets/nav-menu.php:227
+#: elementor-blocks/widgets/nav-menu.php:254
+msgid "Animation"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:276
+msgid "Submenu Indicator"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:281
+msgid "Classic"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:282
+msgid "Chevron"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:283
+msgid "Angle"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:284
+msgid "Plus"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:293
+msgid "Mobile Dropdown"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:307
+msgid "Breakpoint"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:312
+#, php-format
+msgid "Mobile (< %dpx)"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:314
+#, php-format
+msgid "Tablet (< %dpx)"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:326
+msgid "Full Width"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:328
+msgid "Stretch the dropdown of the menu to full width."
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:342
+msgid "Aside"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:352
+#: elementor-blocks/widgets/nav-menu.php:965
+msgid "Toggle Button"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:357
+msgid "Hamburger"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:368
+msgid "Toggle Align"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:405
+msgid "Main Menu"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:451
+#: elementor-blocks/widgets/nav-menu.php:497
+msgid "Counter Color"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:531
+#: elementor-blocks/widgets/nav-menu.php:574
+msgid "Pointer Color"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:555
+#: elementor-blocks/widgets/nav-menu.php:799
+msgid "Active"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:605
+msgid "Pointer Width"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:633
+#: elementor-blocks/widgets/nav-menu.php:880
+msgid "Horizontal Padding"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:650
+#: elementor-blocks/widgets/nav-menu.php:893
+msgid "Vertical Padding"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:667
+#: elementor-blocks/widgets/pricing-table.php:246
+msgid "Space Between"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:716
+msgid ""
+"On desktop, this will affect the submenu. On mobile, this will affect the "
+"entire menu."
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:909
+#: elementor-blocks/widgets/pricing-table.php:290
+msgid "Divider"
+msgstr ""
+
+#: elementor-blocks/widgets/nav-menu.php:946
+msgid "Distance"
+msgstr ""
+
+#: elementor-blocks/widgets/pricing-table.php:49
+#: elementor-blocks/widgets/pricing-table.php:102
+msgid "Pricing Table"
+msgstr ""
+
+#: elementor-blocks/widgets/pricing-table.php:153
+#: elementor-blocks/widgets/pricing-table.php:154
+msgid "List Item"
+msgstr ""
+
+#: elementor-blocks/widgets/pricing-table.php:186
+msgid "20 Users Tasks"
+msgstr ""
+
+#: elementor-blocks/widgets/pricing-table.php:190
+msgid "5 GB of Storage"
+msgstr ""
+
+#: elementor-blocks/widgets/pricing-table.php:194
+msgid "Theme Customization"
+msgstr ""
+
+#: elementor-blocks/widgets/pricing-table.php:198
+msgid "Free Email Support"
+msgstr ""
+
+#: elementor-blocks/widgets/pricing-table.php:202
+msgid "Security Suite"
+msgstr ""
+
+#: elementor-blocks/widgets/pricing-table.php:217
+msgid "Get Started"
+msgstr ""
+
+#: elementor-blocks/widgets/pricing-table.php:227
+msgid "Button Link"
+msgstr ""
+
+#: elementor-blocks/widgets/pricing-table.php:238
+msgid "List"
+msgstr ""
+
+#: elementor-blocks/widgets/pricing-table.php:292
+msgid "Off"
+msgstr ""
+
+#: elementor-blocks/widgets/pricing-table.php:293
+msgid "On"
+msgstr ""
+
+#: elementor-blocks/widgets/pricing-table.php:307
+msgid "Solid"
+msgstr ""
+
+#: elementor-blocks/widgets/pricing-table.php:308
+msgid "Double"
+msgstr ""
+
+#: elementor-blocks/widgets/pricing-table.php:309
+msgid "Dotted"
+msgstr ""
+
+#: elementor-blocks/widgets/pricing-table.php:310
+msgid "Dashed"
+msgstr ""
+
+#: elementor-blocks/widgets/pricing-table.php:326
+msgid "Weight"
+msgstr ""
+
+#: elementor-blocks/widgets/pricing-table.php:350
+msgid "Width"
+msgstr ""
+
+#: elementor-blocks/widgets/pricing-table.php:368
+msgid "Height"
+msgstr ""
+
+#: elementor-blocks/widgets/pricing-table.php:512
+msgid "Text Indent"
+msgstr ""
+
+#: elementor-blocks/widgets/pricing-table.php:554
+msgid "Blue"
+msgstr ""
+
+#: elementor-blocks/widgets/pricing-table.php:637
+msgid "Hover Text"
+msgstr ""
+
+#: elementor-blocks/widgets/pricing-table.php:651
+msgid "Hover Border Color"
+msgstr ""
+
+#: elementor-blocks/widgets/section-heading.php:50
+msgid "Xooapp Section Heading"
+msgstr ""
+
+#: elementor-blocks/widgets/section-heading.php:238
+msgid "Enter Short Description"
+msgstr ""
+
+#: elementor-blocks/widgets/section-heading.php:239
+msgid "Add Your Short Description Text Here"
+msgstr ""
+
+#: elementor-blocks/widgets/section-heading.php:339
+msgid "Sub Heading"
+msgstr ""
+
+#: elementor-blocks/widgets/section-heading.php:425
+msgid "Section Block Margin"
+msgstr ""
+
+#: elementor-blocks/widgets/team.php:49 elementor-blocks/widgets/team.php:106
+msgid "Team"
+msgstr ""
+
+#: elementor-blocks/widgets/team.php:150
+msgid "Jonathan Barnes"
+msgstr ""
+
+#: elementor-blocks/widgets/team.php:151
+msgid "Enter your Name"
+msgstr ""
+
+#: elementor-blocks/widgets/team.php:158
+#: elementor-blocks/widgets/testimonial.php:72
+msgid "Designation"
+msgstr ""
+
+#: elementor-blocks/widgets/team.php:163
+msgid "Founder"
+msgstr ""
+
+#: elementor-blocks/widgets/team.php:164
+msgid "Enter Your Designation"
+msgstr ""
+
+#: elementor-blocks/widgets/team.php:219
+msgid "Facebook"
+msgstr ""
+
+#: elementor-blocks/widgets/team.php:220
+msgid "fa fa-facebook"
+msgstr ""
+
+#: elementor-blocks/widgets/team.php:223
+msgid "Twitter"
+msgstr ""
+
+#: elementor-blocks/widgets/team.php:224
+msgid "fa fa-twitter"
+msgstr ""
+
+#: elementor-blocks/widgets/team.php:227
+msgid "Dribbble"
+msgstr ""
+
+#: elementor-blocks/widgets/team.php:228
+msgid "fa fa-dribbble"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:28
+msgid "Testimonial"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:54
+msgid "Testimonial Items"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:65
+#: elementor-blocks/widgets/testimonial.php:74
+#: elementor-blocks/widgets/testimonial.php:133
+msgid "Jonathan Morgan"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:82
+msgid "Testimonial Image"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:93
+msgid "Content Title"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:95
+msgid "Super Support"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:104
+msgid ""
+"Corem ipsum dolor si amet consectetur adipisic ingelit sed do adipisicido "
+"executiv\n"
+"\t\t\t\t\tsunse pit lore kome."
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:112
+msgid "Display Rating"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:116
+msgid "Rating 1"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:117
+msgid "Rating 2"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:118
+msgid "Rating 3"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:119
+msgid "Rating 4"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:120
+msgid "Rating 5"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:128
+msgid "Testimonials Options"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:134
+msgid "Marketting"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:144
+#: elementor-blocks/widgets/testimonial.php:166
+msgid "Harsul Hisham"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:145
+#: elementor-blocks/widgets/testimonial.php:167
+msgid "Engineer"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:155
+msgid "Teem Southy"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:156
+msgid "Developer"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:177
+msgid "Jake Margin"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:178
+msgid "Marketing"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:208
+msgid "Display Style"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:212
+msgid "Style 1"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:213
+msgid "Style 2"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:221
+msgid "Items Shows"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:225
+msgid "Item 1"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:226
+msgid "Item 2"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:227
+msgid "Item 3"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:249
+msgid "Center Bg/Hover Color"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:264
+msgid "Auto Play Enable/Disable"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:267
+msgid "True"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:268
+msgid "False"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:286
+msgid "Border/Quite Color"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:301
+msgid "Image Border Radius"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:339
+msgid "Content Typography"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:367
+msgid "Name/Designation"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:377
+msgid "Name Color"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:390
+msgid "Name Typography"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:401
+msgid "Designation Color"
+msgstr ""
+
+#: elementor-blocks/widgets/testimonial.php:414
+msgid "Designation Typography"
+msgstr ""
+
+#: elementor-blocks/widgets/video-box.php:61
+#: elementor-blocks/widgets/video-content.php:117
+msgid "Select Video OR Paste Youtube Link"
+msgstr ""
+
+#: elementor-blocks/widgets/video-box.php:70
+#: elementor-blocks/widgets/video-content.php:126
+msgid "Enter your URL"
+msgstr ""
+
+#: elementor-blocks/widgets/video-box.php:79
+msgid "Video Style"
+msgstr ""
+
+#: elementor-blocks/widgets/video-box.php:82
+msgid "Select One"
+msgstr ""
+
+#: elementor-blocks/widgets/video-box.php:83
+msgid "Thumbnail"
+msgstr ""
+
+#: elementor-blocks/widgets/video-box.php:162
+msgid "Select Thumbnail"
+msgstr ""
+
+#: framework/classes/framework.class.php:171
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: framework/classes/framework.class.php:176
+msgid "Default options restored."
+msgstr ""
+
+#: framework/classes/framework.class.php:195
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: framework/classes/framework.class.php:333 minify.php:115
+msgid "Settings saved."
+msgstr ""
+
+#: framework/classes/framework.class.php:335
+msgid "Save"
+msgstr ""
+
+#: framework/classes/framework.class.php:335
+msgid "Saving..."
+msgstr ""
+
+#: framework/classes/framework.class.php:336
+msgid "Restore"
+msgstr ""
+
+#: framework/classes/framework.class.php:339
+#: framework/fields/backup/backup.php:29
+msgid "Reset All Options"
+msgstr ""
+
+#: framework/classes/framework.class.php:343
+msgid "show all options"
+msgstr ""
+
+#: framework/classes/options.class.php:125
+msgid "CONFIG"
+msgstr ""
+
+#: framework/classes/options.class.php:131
+#: framework/classes/options.class.php:151
+msgid "USAGE"
+msgstr ""
+
+#: framework/classes/options.class.php:137
+msgid "VALUE"
+msgstr ""
+
+#: framework/classes/options.class.php:155
+msgid "ID"
+msgstr ""
+
+#: framework/classes/options.class.php:227
+#, php-format
+msgid "You are editing language: ( %s )"
+msgstr ""
+
+#: framework/classes/shortcode.class.php:82
+#: framework/classes/shortcode.class.php:90
+#: framework/fields/textarea/textarea.php:27
+msgid "Add Shortcode"
+msgstr ""
+
+#: framework/classes/shortcode.class.php:92
+msgid "Select a shortcode"
+msgstr ""
+
+#: framework/classes/shortcode.class.php:108
+msgid "Insert Shortcode"
+msgstr ""
+
+#: framework/config/framework.config.php:39
+msgid "No contact forms found"
+msgstr ""
+
+#: framework/fields/background/background.php:34
+#: framework/fields/background/background.php:35
+#: framework/fields/upload/upload.php:23 framework/fields/upload/upload.php:24
+msgid "Upload"
+msgstr ""
+
+#: framework/fields/background/background.php:36
+#: framework/fields/upload/upload.php:25
+msgid "Use Image"
+msgstr ""
+
+#: framework/fields/backup/backup.php:21
+msgid "Import a Backup"
+msgstr ""
+
+#: framework/fields/backup/backup.php:22
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: framework/fields/backup/backup.php:27
+msgid "Export and Download Backup"
+msgstr ""
+
+#: framework/fields/backup/backup.php:28
+msgid "or"
+msgstr ""
+
+#: framework/fields/backup/backup.php:30
+msgid "Please be sure for reset all of framework options."
+msgstr ""
+
+#: framework/fields/gallery/gallery.php:21
+msgid "Add Gallery"
+msgstr ""
+
+#: framework/fields/gallery/gallery.php:22
+msgid "Edit Gallery"
+msgstr ""
+
+#: framework/fields/gallery/gallery.php:23
+msgid "Clear"
+msgstr ""
+
+#: framework/fields/group/group.php:22
+msgid "Adding"
+msgstr ""
+
+#: framework/fields/group/group.php:45 framework/fields/group/group.php:77
+msgid "Remove"
+msgstr ""
+
+#: framework/fields/icon/icon.php:25 framework/functions/actions.php:82
+msgid "Add Icon"
+msgstr ""
+
+#: framework/fields/icon/icon.php:26
+msgid "Remove Icon"
+msgstr ""
+
+#: framework/fields/image/image.php:22
+msgid "Add Image"
+msgstr ""
+
+#: framework/fields/sorter/sorter.php:24
+msgid "Enabled Modules"
+msgstr ""
+
+#: framework/fields/sorter/sorter.php:25
+msgid "Disabled Modules"
+msgstr ""
+
+#: framework/fields/switcher/switcher.php:20
+msgid "on"
+msgstr ""
+
+#: framework/fields/switcher/switcher.php:20
+msgid "off"
+msgstr ""
+
+#: framework/fields/typography/typography.php:73
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: framework/fields/typography/typography.php:79
+msgid "Google Fonts"
+msgstr ""
+
+#: framework/fields/typography/typography.php:107
+#: framework/functions/actions.php:32
+msgid "Error! Can not load json file."
+msgstr ""
+
+#: framework/functions/actions.php:83
+msgid "Search a Icon..."
+msgstr ""
+
+#: framework/functions/actions.php:84
+msgid "Loading..."
+msgstr ""
+
+#: framework/functions/helpers.php:49
+msgid "This field class is not available!"
+msgstr ""
+
+#: framework/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: framework/functions/validate.php:33
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: framework/functions/validate.php:51
+msgid "Fatal Error! This field is required!"
+msgstr ""
+
+#: like-love/post-like.php:19 like-love/post-like.php:213
+#: like-love/post-like.php:337
+msgid "Like"
+msgstr ""
+
+#: like-love/post-like.php:20 like-love/post-like.php:209
+msgid "Unlike"
+msgstr ""
+
+#: like-love/post-like.php:35
+msgid "Not permitted"
+msgstr ""
+
+#: like-love/post-like.php:353
+msgid "You Like:"
+msgstr ""
+
+#: like-love/post-like.php:379
+msgid "You do not like anything yet."
+msgstr ""
+
+#: minify.php:85
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: minify.php:134
+msgid "Minify HTML"
+msgstr ""
+
+#: minify.php:136
+msgid "Enable"
+msgstr ""
+
+#: minify.php:137
+msgid "Disable"
+msgstr ""
+
+#: minify.php:138
+msgid "Enable or disable Minify HTML"
+msgstr ""
+
+#: minify.php:142
+msgid "Minify inline JavaScript"
+msgstr ""
+
+#: minify.php:146 minify.php:154 minify.php:162 minify.php:170
+msgid "This option is typically safe to set to \"Yes\""
+msgstr ""
+
+#: minify.php:150
+msgid "Remove HTML, JavaScript and CSS comments"
+msgstr ""
+
+#: minify.php:158
+msgid "Remove XHTML closing tags from HTML5 void elements"
+msgstr ""
+
+#: minify.php:166
+msgid "Remove relative domain from internal URLs"
+msgstr ""
+
+#: minify.php:174
+msgid "Remove schemes (HTTP: and HTTPS:) from all URLs"
+msgstr ""
+
+#: minify.php:178 minify.php:186
+msgid "This option is typically best to leave as \"No\""
+msgstr ""
+
+#: minify.php:182
+msgid "Support multi-byte UTF-8 encoding (if you see odd characters)"
+msgstr ""
+
+#: minify.php:191
+msgid "Bold"
+msgstr ""
+
+#: minify.php:191
+msgid "default value"
+msgstr ""
+
+#: minify.php:196
+msgid "Save Changes"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "XooApp Master"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://jthemes.org"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"XooApp Master is a recommanded plugin for xooapp theme. Theme and plugin "
+"Developed By xstheme team."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "jThemes"
+msgstr ""

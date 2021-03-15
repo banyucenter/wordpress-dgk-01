@@ -1,0 +1,293 @@
+/**
+ *
+ * -----------------------------------------------------------
+ *
+ * Codestar Framework
+ * A Lightweight and easy-to-use WordPress Options Framework
+ *
+ * Copyright 2015 Codestar <info@xstheme.com>
+ *
+ * -----------------------------------------------------------
+ *
+ */
+@import "compass";
+@import "vendor/mixins";
+
+.xooapp-framework{
+  margin-left: 20px;
+  margin-right: 0;
+
+  .xooapp-header{
+    h1{
+      float: right;
+    }
+
+    fieldset{
+      float: left;
+    }
+  }
+
+  .xooapp-nav{
+    float: right;
+
+    ul{
+      clear: right;
+
+      li{
+        .xooapp-section-active:after{
+          right: auto;
+          left: 0;
+          border-left-color: #fff;
+          border-right-color: transparent;
+        }
+
+        .xooapp-arrow:after{
+          content: "\f053";
+          right: auto;
+          left: 10px;
+        }
+
+        &.xooapp-tab-active .xooapp-arrow:after{
+          @include transform( rotate(-90deg) );
+        }
+      }
+
+      ul{
+        li{
+          a{
+            padding-right: 25px;
+            padding-left: 15px;
+          }
+        }
+
+        &:before{
+          left: auto;
+          right: 15px;
+        }
+      }
+    }
+
+    .xooapp-icon{
+      margin-left: 5px;
+      margin-right: 0;
+    }
+  }
+
+  .xooapp-nav-background{
+    left: auto;
+    right: 0;
+  }
+
+  .xooapp-content{
+    margin-left: 0;
+    margin-right: 225px;
+
+    .xooapp-sections{
+      float: right;
+    }
+  }
+
+  .xooapp-show-all .xooapp-content {
+    margin-right: 0;
+    overflow: hidden;
+  }
+
+  .xooapp-expand-all {
+    right: auto;
+    left: 40px;
+  }
+
+  .xooapp-footer{
+    text-align: left;
+  }
+}
+
+.xooapp-metabox-framework{
+  margin: -6px -12px -12px -12px;
+
+  .xooapp-content{
+    .xooapp-section-title{
+      padding: 20px;
+    }
+  }
+}
+
+.xooapp-element{
+  .xooapp-title{
+    float: right;
+  }
+
+  .xooapp-fieldset{
+    margin-left: 0;
+    margin-right: 30%;
+  }
+}
+
+.xooapp-pseudo-field{
+  padding: 0 0 0 5px !important;
+}
+
+.xooapp-field-number em{
+  margin-left: 0;
+  margin-right: 5px;
+}
+
+.xooapp-field-typography select,
+.xooapp-field-typography .chosen-container{
+  margin-right: 0;
+  margin-left: 5px;
+}
+
+.xooapp-field-checkbox .horizontal li,
+.xooapp-field-radio .horizontal li{
+  margin-right: 0;
+  margin-left: 15px;
+}
+
+.xooapp-field-switcher{
+  label{
+    float: right;
+  }
+
+  .xooapp-text-desc{
+    float: right;
+    margin-left: 0;
+    margin-right: 5px;
+  }
+}
+
+.xooapp-field-color_picker{
+  .xooapp-alpha-slider{
+    margin-left: 0;
+    margin-right: 2px;
+
+    .ui-slider-handle{
+      margin: 0 -11px;
+    }
+  }
+
+  .xooapp-alpha-slider-offset{
+    background-position: center right;
+  }
+
+  .xooapp-alpha-text{
+    right: auto;
+    left: 10px;
+  }
+}
+
+.xooapp-field-group{
+  .ui-accordion-icons{
+    padding-left: 0;
+    padding-right: 30px;
+  }
+
+  .ui-accordion-header-icon{
+    left: auto;
+    right: .5em;
+  }
+
+  .dashicons-arrow-right:before{
+    content: "\f141";
+  }
+}
+
+.xooapp-help{
+  right: auto;
+  left: 5px;
+}
+
+.xooapp-field-icon{
+  .button{
+    margin-right: 0;
+    margin-left: 5px;
+  }
+
+  .xooapp-icon-preview i{
+    margin-right: 0;
+    margin-left: 5px;
+  }
+}
+
+.xooapp-field-gallery{
+  ul li{
+    margin-right: 0;
+    margin-left: 5px;
+  }
+
+  .button{
+    margin-right: 0;
+    margin-left: 5px;
+  }
+}
+
+.xooapp-field-sorter .xooapp-modules{
+  float: right;
+  margin-right: 0;
+  margin-left: 10px;
+}
+
+.xooapp-taxonomy-add-fields{
+
+  .xooapp-fieldset{
+    margin-right: 0;
+  }
+
+  .xooapp-help{
+    left: -5px;
+    right: auto;
+  }
+}
+
+.xooapp-taxonomy-edit-fields{
+
+  .xooapp-fieldset{
+    margin-left: 0;
+    margin-right: 225px;
+  }
+
+  .xooapp-help{
+    right: auto;
+    left: -5px;
+  }
+}
+
+#xooapp-save-ajax{
+  right: auto;
+  left: 5px;
+}
+
+.xooapp-dialog{
+  .xooapp-element{
+    padding-right: 15px;
+    padding-left: 30px;
+  }
+
+  .xooapp-shortcode-clone .xooapp-remove-clone{
+    right: auto;
+    left: 5px;
+  }
+}
+
+#customize-controls .xooapp-element .xooapp-fieldset,
+.widget-content .xooapp-element .xooapp-fieldset,
+#side-sortables .xooapp-element .xooapp-fieldset{
+  margin-right: 0;
+}
+
+@media only screen and (max-width:1200px){
+  .xooapp-metabox-framework .xooapp-element .xooapp-fieldset{
+    margin-left: 0;
+  }
+}
+
+@media only screen and (max-width:782px){
+  .xooapp-framework .xooapp-fieldset,
+  .xooapp-framework .xooapp-content{
+      margin-right: 0;
+  }
+}
+
+.ui-dialog{
+  right: auto;
+}

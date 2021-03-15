@@ -1,0 +1,30 @@
+span.sl-loader {
+    position: absolute;
+    right: -5px;
+    bottom: -25px;
+    font-size: 10px !important;
+    width: 100px;
+}
+
+a.sl-button {
+    position: relative;
+}
+
+span.sl-wrapper {
+    position: relative;
+}
+
+span.sl-count {
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+span.sl-wrapper i {
+    position: relative;
+    top: 1px;
+}
+
+.sl-wrapper span.sl-count {
+    margin-right: 0;
+    margin-left: 4px;
+}
